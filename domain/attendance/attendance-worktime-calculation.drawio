@@ -1,0 +1,444 @@
+<mxfile host="65bd71144e" pages="2">
+    <diagram name="隠匿化" id="sv56RlWao8aIA7_bIgzc">
+        <mxGraphModel dx="426" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-1" value="定められた労働時間" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="160" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-2" value="定められた時間外の労働時間" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="160" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-3" value="法定外時間" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="160" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-4" value="深夜時間" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="470" y="160" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="240" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="90" y="250" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="260" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-8" value="出退勤の打刻セット" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="270" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="240" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="250" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="260" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-12" value="休憩開始終了の打刻セット" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="270" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="425" y="240" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="435" y="250" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="445" y="260" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-16" value="外出開始終了の打刻セット" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="455" y="270" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-17" value="出退勤セット・・・処理順１" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
+                    <mxGeometry x="88" y="455" width="390" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="118" y="550" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="128" y="560" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="138" y="570" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-21" value="休憩開始と終了のセット" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="148" y="580" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="308" y="550" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="318" y="560" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="328" y="570" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-25" value="外出開始と終了のセット" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="338" y="580" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-26" value="暫定の労働時間・・・処理順１～３を実行すると算出可能" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
+                    <mxGeometry x="88" y="795" width="1150" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-27" value="暫定の労働時間　＜　8時間・・・8時間未満なので法定労働時間内勤務となる&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
+                    <mxGeometry x="98" y="827.5" width="680" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-28" value="8時間　＜　暫定の労働時間・・・8時間超過なので法定外残業となる&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
+                    <mxGeometry x="788" y="830" width="440" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-29" value="法定外労働時間・・・処理順５" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="808" y="860" width="410" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-30" value="22時以降の場合・・・処理順１０" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
+                    <mxGeometry x="1018" y="870" width="190" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-31" value="算出対象5" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="828" y="897.5" width="180" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-33" value="法定労働時間・・・処理順４" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
+                    <mxGeometry x="108" y="855" width="660" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-34" value="定められた労働時間内の場合・・・処理順６" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
+                    <mxGeometry x="118" y="890" width="310" height="155" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-35" value="定められた労働時間外の場合・・・処理順７" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
+                    <mxGeometry x="448" y="890" width="310" height="155" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-36" value="算出対象１" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="128" y="922.5" width="100" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-37" value="22時以降の場合・・・処理順８" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
+                    <mxGeometry x="238" y="915" width="180" height="117.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-38" value="22時以降の場合・・・処理順９" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
+                    <mxGeometry x="567" y="916.25" width="180" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-39" value="算出対象３" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="458" y="921.25" width="100" height="110" as="geometry"/>
+                </mxCell>
+                <UserObject label="出退勤のセットを回数分つなげた時間を暫定で労働時間とする。" placeholders="1" name="Variable" id="Swiq4qs_coI_OxbONcN1-43">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
+                        <mxGeometry x="113" y="487.5" width="340" height="37.5" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="最大10回まで" placeholders="1" name="Variable" id="Swiq4qs_coI_OxbONcN1-46">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
+                        <mxGeometry x="110" y="340" width="80" height="20" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="最大10回まで" placeholders="1" name="Variable" id="Swiq4qs_coI_OxbONcN1-47">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
+                        <mxGeometry x="280" y="335" width="80" height="20" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="最大10回まで" placeholders="1" name="Variable" id="Swiq4qs_coI_OxbONcN1-48">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
+                        <mxGeometry x="455" y="340" width="80" height="20" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="労働時間から休憩の開始終了セットを除外する・・・処理順2&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CUserObject%20label%3D%22%E6%9C%80%E5%A4%A710%E5%9B%9E%E3%81%BE%E3%81%A7%22%20placeholders%3D%221%22%20name%3D%22Variable%22%20id%3D%222%22%3E%3CmxCell%20parent%3D%221%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Boverflow%3Dhidden%3B%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2220%22%20width%3D%2280%22%20x%3D%22240%22%20y%3D%22290%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2FUserObject%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" placeholders="1" name="Variable" id="Swiq4qs_coI_OxbONcN1-49">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
+                        <mxGeometry x="92" y="655" width="180" height="50" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="労働時間から外出の開始終了セットを除外する・・・処理順３&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CUserObject%20label%3D%22%E6%9C%80%E5%A4%A710%E5%9B%9E%E3%81%BE%E3%81%A7%22%20placeholders%3D%221%22%20name%3D%22Variable%22%20id%3D%222%22%3E%3CmxCell%20parent%3D%221%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Boverflow%3Dhidden%3B%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2220%22%20width%3D%2280%22%20x%3D%22240%22%20y%3D%22290%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2FUserObject%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" placeholders="1" name="Variable" id="Swiq4qs_coI_OxbONcN1-50">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
+                        <mxGeometry x="288" y="655" width="180" height="50" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-51" value="算出対象２" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="253" y="942.5" width="150" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-52" value="算出対象４" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="577" y="942.5" width="161" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-53" value="算出対象6" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1038" y="902.5" width="160" height="140" as="geometry"/>
+                </mxCell>
+                <UserObject label="労働時間を算出するうえで基礎となる境界線となる時間" placeholders="1" name="Variable" id="Swiq4qs_coI_OxbONcN1-54">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
+                        <mxGeometry x="80" y="70" width="510" height="20" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Swiq4qs_coI_OxbONcN1-56" target="Swiq4qs_coI_OxbONcN1-1" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <UserObject label="企業ごとの設定した労働時間を以下とする" placeholders="1" name="Variable" id="Swiq4qs_coI_OxbONcN1-56">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
+                        <mxGeometry x="80" y="90" width="120" height="50" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Swiq4qs_coI_OxbONcN1-59" target="Swiq4qs_coI_OxbONcN1-2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <UserObject label="設定した労働時間外も同様に以下と定義する" placeholders="1" name="Variable" id="Swiq4qs_coI_OxbONcN1-59">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
+                        <mxGeometry x="210" y="90" width="120" height="50" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="労働基準法で定められた時間帯の定義" placeholders="1" name="Variable" id="Swiq4qs_coI_OxbONcN1-61">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
+                        <mxGeometry x="340" y="90" width="250" height="30" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="8時間超過の場合に法定外" placeholders="1" name="Variable" id="Swiq4qs_coI_OxbONcN1-62">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
+                        <mxGeometry x="340" y="120" width="120" height="30" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="22時以降翌5時までを深夜労働時間" placeholders="1" name="Variable" id="Swiq4qs_coI_OxbONcN1-63">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
+                        <mxGeometry x="470" y="120" width="120" height="30" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="各時間帯を算出するうえで各時間帯を包括している時間帯から先に算出する。算出する順番を処理順と記載" placeholders="1" name="Variable" id="Swiq4qs_coI_OxbONcN1-64">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
+                        <mxGeometry x="88" y="765" width="600" height="20" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Swiq4qs_coI_OxbONcN1-65" target="Swiq4qs_coI_OxbONcN1-69" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-65" value="暫定の労働時間・・・処理順１～３を実行すると算出可能" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" parent="1" vertex="1">
+                    <mxGeometry x="630" y="1185" width="350" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Swiq4qs_coI_OxbONcN1-69" target="Swiq4qs_coI_OxbONcN1-72" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="582" y="1465" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-78" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;True&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Swiq4qs_coI_OxbONcN1-74" connectable="0" vertex="1">
+                    <mxGeometry x="-0.0223" y="-2" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Swiq4qs_coI_OxbONcN1-69" target="Swiq4qs_coI_OxbONcN1-73" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-79" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;False&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Swiq4qs_coI_OxbONcN1-75" connectable="0" vertex="1">
+                    <mxGeometry x="-0.0311" y="1" relative="1" as="geometry">
+                        <mxPoint x="-1" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-69" value="暫定の労働時間が8時間超過か？" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="648.5" y="1295" width="313" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Swiq4qs_coI_OxbONcN1-72" target="Swiq4qs_coI_OxbONcN1-86" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="360" y="1550" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-84" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="Swiq4qs_coI_OxbONcN1-81" connectable="0" vertex="1">
+                    <mxGeometry x="-0.1824" y="-4" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-72" value="22時以降、翌5時以前か？" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="370" y="1465" width="300" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="Swiq4qs_coI_OxbONcN1-73" target="Swiq4qs_coI_OxbONcN1-105" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-111" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="Swiq4qs_coI_OxbONcN1-110" connectable="0" vertex="1">
+                    <mxGeometry x="-0.2324" y="2" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-73" value="定められた労働時間を&lt;br&gt;超過しているか？" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="892" y="1465" width="300" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-86" value="&lt;font&gt;算出対象6&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="1492.5" width="210" height="115" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-88" value="算出対象5" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="415" y="1777.5" width="210" height="115" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Swiq4qs_coI_OxbONcN1-72" target="Swiq4qs_coI_OxbONcN1-88" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="680.01" y="1805" as="sourcePoint"/>
+                        <mxPoint x="678.4999999999998" y="1888.2200000000003" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-94" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;False&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Swiq4qs_coI_OxbONcN1-93" connectable="0" vertex="1">
+                    <mxGeometry x="-0.0311" y="1" relative="1" as="geometry">
+                        <mxPoint x="-1" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;" parent="1" source="Swiq4qs_coI_OxbONcN1-100" target="Swiq4qs_coI_OxbONcN1-116" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-124" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="Swiq4qs_coI_OxbONcN1-120" connectable="0" vertex="1">
+                    <mxGeometry x="-0.0075" y="4" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="Swiq4qs_coI_OxbONcN1-100" target="Swiq4qs_coI_OxbONcN1-117" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-125" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="Swiq4qs_coI_OxbONcN1-121" connectable="0" vertex="1">
+                    <mxGeometry x="-0.1882" y="-5" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-100" value="22時以降、翌5時以前か？" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="892.0011764705882" y="1705" width="300" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Swiq4qs_coI_OxbONcN1-73" target="Swiq4qs_coI_OxbONcN1-100" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1084" y="1645" as="sourcePoint"/>
+                        <mxPoint x="1082" y="1728" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-104" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;False&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Swiq4qs_coI_OxbONcN1-103" connectable="0" vertex="1">
+                    <mxGeometry x="-0.0311" y="1" relative="1" as="geometry">
+                        <mxPoint x="-1" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="Swiq4qs_coI_OxbONcN1-105" target="Swiq4qs_coI_OxbONcN1-114" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-122" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="Swiq4qs_coI_OxbONcN1-118" connectable="0" vertex="1">
+                    <mxGeometry x="0.029" y="10" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="Swiq4qs_coI_OxbONcN1-105" target="Swiq4qs_coI_OxbONcN1-115" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-123" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="Swiq4qs_coI_OxbONcN1-119" connectable="0" vertex="1">
+                    <mxGeometry x="-0.2824" y="2" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-105" value="22時以降、翌5時以前か？" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="1272" y="1465" width="300" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-114" value="算出対象2" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="1317" y="1275" width="210" height="115" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-115" value="算出対象1" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="1660" y="1492.5" width="210" height="115" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-116" value="算出対象3" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="1292" y="1732.5" width="210" height="115" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-117" value="算出対象4" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+                    <mxGeometry x="937" y="1935" width="210" height="115" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-129" value="実際の処理を意識したフローチャート" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="232" y="1145" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-130" value="各時間帯がどの時間帯をもとに算出されるかの図解" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="310" y="390" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="Swiq4qs_coI_OxbONcN1-132" value="本図解を理解するうえで基本となる用語" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="300" y="20" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="pumiOH_rdhBzKU1JBXlR-1" value="打刻の開始から終了までの純粋な時間帯" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="338" y="2270" width="1280" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="pumiOH_rdhBzKU1JBXlR-3" value="打刻の開始から終了までの純粋な時間帯" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1630" y="2270" width="480" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="pumiOH_rdhBzKU1JBXlR-5" value="打刻の開始から終了までの純粋な時間帯" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="2120" y="2270" width="480" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="pumiOH_rdhBzKU1JBXlR-8" value="出退勤セット" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry y="2270" width="320" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="pumiOH_rdhBzKU1JBXlR-11" value="休憩打刻セット" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry y="2360" width="320" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="pumiOH_rdhBzKU1JBXlR-12" value="外出打刻セット" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry y="2440" width="320" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="pumiOH_rdhBzKU1JBXlR-13" value="休憩時間" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="830" y="2360" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="pumiOH_rdhBzKU1JBXlR-15" value="開始打刻" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="830" y="2420" width="80" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="pumiOH_rdhBzKU1JBXlR-18" value="出勤打刻１" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="338" y="2210" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="pumiOH_rdhBzKU1JBXlR-21" value="退勤打刻１" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1498" y="2210" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="pumiOH_rdhBzKU1JBXlR-22" value="出勤打刻２" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1630" y="2210" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="pumiOH_rdhBzKU1JBXlR-23" value="退勤打刻2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1990" y="2210" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="pumiOH_rdhBzKU1JBXlR-24" value="出勤打刻３" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="2120" y="2210" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="pumiOH_rdhBzKU1JBXlR-25" value="退勤打刻3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="2480" y="2210" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="pumiOH_rdhBzKU1JBXlR-26" value="9：00&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20value%3D%22%E5%87%BA%E5%8B%A4%E6%89%93%E5%88%BB%EF%BC%91%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2260%22%20width%3D%22120%22%20x%3D%22338%22%20y%3D%222210%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="338" y="2140" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="pumiOH_rdhBzKU1JBXlR-27" value="18：00&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20value%3D%22%E5%87%BA%E5%8B%A4%E6%89%93%E5%88%BB%EF%BC%91%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2260%22%20width%3D%22120%22%20x%3D%22338%22%20y%3D%222210%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1498" y="2140" width="252" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="pumiOH_rdhBzKU1JBXlR-29" value="21：00" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1990" y="2130" width="252" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="pumiOH_rdhBzKU1JBXlR-30" value="24：00" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="2480" y="2130" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="pumiOH_rdhBzKU1JBXlR-32" value="終了打刻" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="910" y="2420" width="80" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="pumiOH_rdhBzKU1JBXlR-33" value="外出時間" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1788" y="2440" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="pumiOH_rdhBzKU1JBXlR-34" value="開始打刻" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1788" y="2500" width="80" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="pumiOH_rdhBzKU1JBXlR-35" value="終了打刻" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1868" y="2500" width="80" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="pumiOH_rdhBzKU1JBXlR-36" value="3時間・・・法定内" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="2600" width="490" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="pumiOH_rdhBzKU1JBXlR-37" value="5時間・・・法定内" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="988" y="2600" width="630" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="pumiOH_rdhBzKU1JBXlR-39" value="1時間・・・法定外" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1630" y="2680" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="pumiOH_rdhBzKU1JBXlR-40" value="1時間・・・法定外" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1948" y="2680" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="pumiOH_rdhBzKU1JBXlR-41" value="3時間・・・深夜法定外" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="2280" y="2760" width="320" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="pumiOH_rdhBzKU1JBXlR-43" value="1時間・・・法定外" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="2120" y="2680" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="pumiOH_rdhBzKU1JBXlR-45" value="22:00" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="2242" y="2130" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="pumiOH_rdhBzKU1JBXlR-46" value="法定内時間&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20value%3D%22%E5%AE%9F%E9%9A%9B%E3%81%AE%E7%AE%97%E5%87%BA%E5%87%A6%E7%90%86%E3%82%92%E9%80%9A%E3%81%97%E3%81%9F%E5%A0%B4%E5%90%88%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2260%22%20width%3D%22320%22%20y%3D%222640%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry y="2600" width="320" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="pumiOH_rdhBzKU1JBXlR-47" value="法定外時間&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20value%3D%22%E5%AE%9F%E9%9A%9B%E3%81%AE%E7%AE%97%E5%87%BA%E5%87%A6%E7%90%86%E3%82%92%E9%80%9A%E3%81%97%E3%81%9F%E5%A0%B4%E5%90%88%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2260%22%20width%3D%22320%22%20y%3D%222640%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry y="2680" width="320" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="pumiOH_rdhBzKU1JBXlR-48" value="深夜法定外時間&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20value%3D%22%E5%AE%9F%E9%9A%9B%E3%81%AE%E7%AE%97%E5%87%BA%E5%87%A6%E7%90%86%E3%82%92%E9%80%9A%E3%81%97%E3%81%9F%E5%A0%B4%E5%90%88%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2260%22%20width%3D%22320%22%20y%3D%222640%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry y="2760" width="320" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="pumiOH_rdhBzKU1JBXlR-49" value="実際の算出処理を通した場合" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="108" y="2530" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="pumiOH_rdhBzKU1JBXlR-50" value="1日の時間情報で具体的に説明" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="2090" width="100" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
