@@ -27,11 +27,35 @@ Focuses on system design, scalability, and stream-based processing patterns.
 
 ## 📊 Quick Navigation
 
-| Section | Description | Key Diagrams |
+| Section | Description | Key Content |
 |---------|-------------|---------------|
-| **Scalability** | Throughput and sharding strategies | [`sharding-and-throughput.png`](architecture/scalability/sharding-and-throughput.png) |
+| **Scalability** | Throughput and sharding strategies | [`sharding-and-throughput.png`](architecture/scalability/sharding-and-throughput.png), [`company-sharding-strategy.md`](architecture/scalability/company-sharding-strategy.md) |
 | **Streaming** | Event-driven and stream processing architectures | [`lambda-stream-architecture.png`](architecture/streaming/lambda-stream-architecture.png), [`stream-options-notes.png`](architecture/streaming/stream-options-notes.png) |
+| **Frontend** | Complex DOM/iframe interaction patterns | [`dom-overlay-iframe-interaction.md`](architecture/frontend/dom-overlay-iframe-interaction.md) |
 | **Attendance** | Work-time calculation and business rules | [`attendance-worktime-calculation.png`](domain/attendance/attendance-worktime-calculation.png) |
+
+## 📚 Design Patterns & Implementation Examples
+
+This repository includes real-world design patterns and implementation strategies:
+
+### Domain Design
+- **Attendance / Payroll Domain**: Complex labor law-based calculation logic
+  - Multi-layered work-time rules (regular time, overtime, night shift, etc.)
+  - Tax and deduction calculation patterns
+
+### Architecture & Scalability
+- **Sharding Strategy**: Hybrid approach with VIP-company dedicated shards and hash-based distribution
+  - Resource allocation per shard (Aurora Serverless v2 with 0.5-128 ACU scaling)
+  - Implementation considerations for company isolation
+
+### Frontend Implementation Patterns
+- **DOM Overlay with iframe Synchronization**: 
+  - Reverse-engineered framework properties through console inspection
+  - Scroll, line-height, and click-event synchronization across iframe boundaries
+  - Practical solution for limited-reference frameworks
+
+### Stream Processing
+- **Lambda Architecture**: Event-driven processing patterns for high-throughput systems
 
 ## 🔄 Workflow
 
