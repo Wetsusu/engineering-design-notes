@@ -17,7 +17,7 @@ jobs:
       - name: Install draw.io CLI
         run: |
           sudo apt-get update
-          sudo apt-get install -y xvfb libasound2t64 libgbm1
+          sudo apt-get install -y xvfb libasound2t64 libgbm1 libx11-6 libxfont2
           wget -q https://github.com/jgraph/drawio-desktop/releases/download/v24.7.5/drawio-amd64-24.7.5.deb
           sudo apt-get install -y ./drawio-amd64-24.7.5.deb
 
@@ -25,7 +25,7 @@ jobs:
         run: |
           find . -name "*.drawio" | while read file; do
             png="${file%.drawio}.png"
-            xvfb-run drawio --export --format png --output "$png" "$file"
+            xvfb-run -a drawio --export --format png --output "$png" --no-sandbox "$file"
           done
 
       - name: Upload generated PNGs
